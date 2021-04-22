@@ -19,3 +19,5 @@ Example of CellProfiler Output files:
 *Calculate nuclear mean FOX-O / cytoplasmic mean FOX-O ratio*: 
 >.csv files for the objects (cell, nuclei & cytoplasm) were calculated using R
 > Boxplots were generated from the dataset
+> nuclear_v_cyto.R is the actual R script
+> nuclear_v_cyto.html is the output from all 6 replicates tested
