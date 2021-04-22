@@ -1,5 +1,7 @@
 # Mito-MGN-Scripts 
->Created by Megan Cleland Harwig for the following article in submission "Synchronous Effects of Targeted Mitochondrial Complex I Inhibitors on Tumor and Immune Cells Abrogate Melanoma Progression"
+Created by Megan Cleland Harwig for the following article in submission:
+> "Synchronous Effects of Targeted Mitochondrial Complex I Inhibitors on Tumor and Immune Cells Abrogate Melanoma Progression"
+>>Mahmoud Abu Eid, Donna M. McAllister, Laura McOlash, Megan Cleland Harwig, Gang Cheng,  Donovan Drouillard, Kathleen A. Boyle, Jacek Zielonka, Bryon D. Johnson, R Blake Hill, Balaraman Kalyanaraman and Michael B. Dwinell
 
 *Prepare images for processing*: 
 >4 channel .nd2 images (DAPI, anti-FOX-O (alex-488), alexa-568 phalloidin and DIC were processed into Maximum Intensity Projections (first 7 slices; to avoid out of focus/below nuclei portion) single channel TIFF files using *splitchannel4_maxproj_GitHub.ijm*
