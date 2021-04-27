@@ -1,6 +1,7 @@
 # Mito-MGN-Scripts 
 Created by Megan Cleland Harwig for the following article in submission:
-> "Synchronous Effects of Targeted Mitochondrial Complex I Inhibitors on Tumor and Immune Cells Abrogate Melanoma Progression"
+
+**"Synchronous Effects of Targeted Mitochondrial Complex I Inhibitors on Tumor and Immune Cells Abrogate Melanoma Progression"**
 
 Mahmoud Abu Eid, Donna M. McAllister, Laura McOlash, Megan Cleland Harwig, Gang Cheng,  Donovan Drouillard, Kathleen A. Boyle, Jacek Zielonka, Bryon D. Johnson, R Blake Hill, Balaraman Kalyanaraman and Michael B. Dwinell
 
