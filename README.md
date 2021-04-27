@@ -8,12 +8,13 @@ Created by Megan Cleland Harwig for the following article in submission:
   
 *CellProfiler pipeline*: 
 >All 4 channel single channel TIFF files were set as input images for the CellProfiler script. Note that this script was modified from the CellProfiler example that demonstrated the quantification of cytosol to nuclear translocation (https://cellprofiler.org/examples). 
->
+<img width="1287" alt="Screen Shot 2021-04-27 at 3 29 15 PM" src="https://user-images.githubusercontent.com/34748371/116308700-74ee9a00-a76d-11eb-8a1c-834547f30916.png">
+
 
 *Compile images from CellProfiler pipeline*:
 >Cropped/illumination corrected single channels DAPI/FOX-O/ACTIN/DIC and object masks (Nuclei,Cell & Cytoplasm) were compiled using ImageJ macro *CellProfiler_output_stack_GitHub.ijm*
 
-Example of CellProfiler Output files:
+Example of CellProfiler Output files compiled using ImageJ macro:
 ![image](https://user-images.githubusercontent.com/34748371/115754563-ef7c7b80-a361-11eb-8320-79e5caad6542.png)
 
 *Calculate nuclear mean FOX-O / cytoplasmic mean FOX-O ratio*: 
@@ -21,4 +22,4 @@ Example of CellProfiler Output files:
 > Boxplots were generated from the dataset
 >> nuclear_v_cyto.R is the R script used to process the CellProfiler output .csv files
 
->> nuclear_v_cyto.html is the compiled HTML report from all 6 replicates tested
+>> nuclear_v_cyto.html is the compiled HTML report from all 6 replicates tested for this manuscript
