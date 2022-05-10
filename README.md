@@ -1,10 +1,22 @@
-# Mito-MGN-Scripts 
-Created by Megan Cleland Harwig for the following article in submission:
+# Mito-MGN-Scripts used in the manuscript: Synchronous Effects of Targeted Mitochondrial Complex I Inhibitors on Tumor and Immune Cells Abrogate Melanoma Progression
 
-**"Synchronous Effects of Targeted Mitochondrial Complex I Inhibitors on Tumor and Immune Cells Abrogate Melanoma Progression"**
+Created by Megan Cleland Harwig for the following published article:
 
-Mahmoud Abu Eid, Donna M. McAllister, Laura McOlash, Megan Cleland Harwig, Gang Cheng,  Donovan Drouillard, Kathleen A. Boyle, Jacek Zielonka, Bryon D. Johnson, R Blake Hill, Balaraman Kalyanaraman and Michael B. Dwinell
+Mahmoud AbuEid, Donna M. McAllister, Laura McOlash, Megan Cleland Harwig, Gang Cheng, Donovan Drouillard, Kathleen A. Boyle, Micael Hardy, Jacek Zielonka, Bryon D. Johnson, R. Blake Hill, Balaraman Kalyanaraman, Michael B. Dwinell,
 
+Synchronous effects of targeted mitochondrial complex I inhibitors on tumor and immune cells abrogate melanoma progression,
+iScience,
+Volume 24, Issue 6,
+2021,
+102653,
+ISSN 2589-0042,
+https://doi.org/10.1016/j.isci.2021.102653.
+(https://www.sciencedirect.com/science/article/pii/S2589004221006210)
+Abstract: Summary
+Metabolic heterogeneity within the tumor microenvironment promotes cancer cell growth and immune suppression. We determined the impact of mitochondria-targeted complex I inhibitors (Mito-CI) in melanoma. Mito-CI decreased mitochondria complex I oxygen consumption, Akt-FOXO signaling, blocked cell cycle progression, melanoma cell proliferation and tumor progression in an immune competent model system. Immune depletion revealed roles for T cells in the antitumor effects of Mito-CI. While Mito-CI preferentially accumulated within and halted tumor cell proliferation, it also elevated infiltration of activated effector T cells and decreased myeloid-derived suppressor cells (MDSC) as well as tumor-associated macrophages (TAM) in melanoma tumors in vivo. Anti-proliferative doses of Mito-CI inhibited differentiation, viability, and the suppressive function of bone marrow-derived MDSC and increased proliferation-independent activation of T cells. These data indicate that targeted inhibition of complex I has synchronous effects that cumulatively inhibits melanoma growth and promotes immune remodeling.
+Keywords: Components of the immune system; Cell biology; Cancer
+
+https://www.sciencedirect.com/science/article/pii/S2589004221006210#:~:text=Mito-CI%20decreased%20mitochondria%20complex%20I%20oxygen%20consumption%2C%20Akt-FOXO,T%20cells%20in%20the%20antitumor%20effects%20of%20Mito-CI.
 
 **Files Included**
 >*ImageJ macros*:
